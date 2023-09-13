@@ -14,5 +14,6 @@ int main()
         printf("n is a prime\n");
     }else
         printf("n is not a prime");
+
     return 0;
 }
