@@ -11,9 +11,9 @@ int main()
             break;
     }
     if(i>=n){
-        printf("n is a prime\n");
+        printf("It is a prime\n");
     }else
-        printf("n is not a prime");
+        printf("It is not a prime");
 
     return 0;
 }
