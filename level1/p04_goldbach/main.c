@@ -28,8 +28,8 @@ int main()
                 }
             }
         }
+        printf("%d = %d + %d\n",a,c,i);
     }
-    printf("%d\n",f);
     if(f==50)
     {
         printf("The Goldbach conjecture is right!");
